@@ -28,6 +28,11 @@ git clone https://github.com/shubhamkumarsharma03/Student_management_system_Java
 
 4. Run the project
 
+
+## Data Flow Diagram
+![DFD](src/images/diagram.png)
+
+
 ## 🙋‍♂Author
 - **Shubham Kumar Sharma**  
 
